@@ -29,7 +29,15 @@ public class DataProviderDeneme {
     }
 }
 
+/*
 
+git branch -M main
+git remote add origin https://github.com/ahmetbicakci/Team108_TestNG.git
+git push -u origin main
+
+
+
+ */
 
 
 
